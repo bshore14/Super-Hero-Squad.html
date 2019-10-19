@@ -1,0 +1,50 @@
+{
+	"squadName": "Super hero squad",
+	"Name": "Benjamin Shore",
+	"Assignment": "ITM3100 FL19 Assignment 03",
+	"secretBase": "Super tower",
+	"active": true,
+	"members": [
+		{
+			"name": "Benjamin Shore",
+			"age": 19,
+			"secretIdentity": "Roid Boy",
+			"powers": [
+				"Arm cannon",
+				"Drum beater",
+				"20/10 vision"
+			]
+		},
+		{
+			"name": "Alec Tonazzi",
+			"age": 19,
+			"secretIdentity": "John Paul Jones",
+			"powers": [
+				"Bassist",
+				"Research Chemist",
+				"Yeeting and Dabbing"
+			]
+		},
+		{
+			"name": "Davis Bradley",
+			"age": 19,
+			"secretIdentity": "Thotius Maximus",
+			"powers": [
+				"Big brain",
+				"Astral Projector",
+				"Poision Immunization"
+			]
+		},
+		{
+			"name": "Sailor Morris",
+			"age": 19,
+			"secretIdentity": "Beast Master",
+			"powers": [
+				"Summoning attack dog",
+				"Deploying a cat army",
+				"Champion fits"
+			] 
+		}
+	]
+} 
+
